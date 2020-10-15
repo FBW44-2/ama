@@ -1,1 +1,1 @@
-# ama
+# AMA (Ask Me Anything)
