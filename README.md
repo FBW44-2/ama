@@ -1,2 +1,3 @@
 # AMA (Ask Me Anything)
-# github is difficult
+
+- [AMA Biliana](https://github.com/Bilie/ama-biliana)
