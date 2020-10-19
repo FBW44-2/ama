@@ -7,3 +7,5 @@
 - [AMA Rotem](https://github.com/FBW44-2/ama-rotem)
 
 - [AMA Phil](https://github.com/ppphiiil/ama-phil.git)
+
+- [AMA Magda](https://github.com/FBW44-2/ama-magda)
