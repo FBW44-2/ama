@@ -9,7 +9,8 @@
 
 - [AMA Phil](https://github.com/ppphiiil/ama-phil.git)
 
+- [AMA Nathaly](https://github.com/FBW44-2/ama-nathaly)
+
 - [AMA henrique](https://github.com/FBW44-2/ama-henrique)
 
 - [AMA Magda](https://github.com/FBW44-2/ama-magda)
-
