@@ -12,4 +12,5 @@
 - [AMA henrique](https://github.com/FBW44-2/ama-henrique)
 
 - [AMA Magda](https://github.com/FBW44-2/ama-magda)
--[AMA abdullah0o0](https://github.com/FBW44-2/ama-abdullah0o0)
+
+- [AMA abdullah0o0](https://github.com/FBW44-2/ama-abdullah0o0)
