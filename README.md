@@ -17,4 +17,3 @@
 
 - [AMA Magda](https://github.com/FBW44-2/ama-magda)
 - [AMA Abdilkani](https://github.com/FBW44-2/ama-abdilkani2)
-- [AMA Alagie](https://github.com/FBW44-2/ama-alagie)
